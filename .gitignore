@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Hardhat artifacts
+artifacts/
+cache/
+build/
+
+# Environment variables
+.env
+
+# Circom outputs
+*.ptau
+*.zkey
+*.wtns
+*.sym
+*.r1cs
+
+# Logs
+logs/
+*.log
+
+# MacOS
+.DS_Store
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo

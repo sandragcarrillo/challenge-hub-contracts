@@ -1,0 +1,6 @@
+{
+  "leaf": "5",
+  "merkleRoot": "25",
+  "pathIndices": [0, 1, 0, 1],
+  "siblings": ["10", "20", "30", "40"]
+}
